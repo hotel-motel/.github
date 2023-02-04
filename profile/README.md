@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-Hotel Motel organization is a hotel-booking project which has many repositories. Currently, the project has just two repositories, namely api, and front-end; what's more, we are planning to have at least a recommender system based on machine learning models in the near future.
+Hotel Motel organization is a hotel-booking application consisting of three components: API, front-end, and collaborative recommender system. Moreover, this project has been developed via three web frameworks: Laravel, Nuxt.js,  and FastAPI.
